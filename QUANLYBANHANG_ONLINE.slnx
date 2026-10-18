@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="../DEMOWEBSERVICE/DEMOWEBSERVICE.csproj" Id="86b4bbaf-a853-4fa9-af66-7bacc94ce1dd">
+    <BuildDependency Project="../WcfServiceProcessData/WcfServiceProcessData.csproj" />
+  </Project>
+  <Project Path="../QUANLYBANHANG_MVC/QUANLYBANHANG_MVC.csproj" Id="cde143ac-efec-4358-8ed1-b613695479fd" />
+  <Project Path="../WcfServiceProcessData/WcfServiceProcessData.csproj" Id="d85b58d8-882c-4712-81f5-8f9360803ef5" />
+  <Project Path="QUANLYBANHANG_ONLINE.csproj" Id="162af580-9062-4502-868a-2d3898775e39">
+    <BuildDependency Project="../WcfServiceProcessData/WcfServiceProcessData.csproj" />
+  </Project>
+</Solution>
